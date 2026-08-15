@@ -1,0 +1,501 @@
+Customer_ID,City,Gender,Age,Subscription_Plan,Tenure_Months,Total_Orders,Avg_Order_Value,Total_Spend,Support_Tickets,Satisfaction_Score,Days_Since_Last_Purchase,Churn,Age_Group,Customer_Segment,Purchase_Risk,Support_Risk,Satisfaction_Risk,Risk_Score,Risk_Level
+CUST1001,Hyderabad,Male,23,Basic,42,9,1824.04,16416.36,2,4.0,26,No,18-25,Medium Value,0,0,0,0,Low
+CUST1002,Mumbai,Male,23,Basic,30,12,2824.58,33894.96,0,4.9,46,No,18-25,VIP,0,0,0,0,Low
+CUST1003,Pune,Female,20,Standard,57,3,3864.15,11592.45,0,4.2,118,No,18-25,Medium Value,0,0,0,0,Low
+CUST1004,Hyderabad,Male,24,Basic,55,4,4032.3,16129.2,3,5.0,46,No,18-25,Medium Value,0,1,0,1,Medium
+CUST1005,Delhi,Male,25,Standard,16,9,2332.17,20989.53,6,4.9,14,No,18-25,High Value,0,1,0,1,Medium
+CUST1006,Jaipur,Female,59,Premium,12,7,3359.37,23515.59,2,3.2,85,No,51-60,High Value,0,0,0,0,Low
+CUST1007,Pune,Female,32,Basic,17,11,1629.11,17920.21,1,4.2,63,No,26-35,Medium Value,0,0,0,0,Low
+CUST1008,Pune,Female,46,Premium,16,9,1737.18,15634.62,3,3.5,72,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1009,Hyderabad,Female,50,Premium,12,16,1116.75,17868.0,2,4.6,3,No,36-50,Medium Value,0,0,0,0,Low
+CUST1010,Bhopal,Male,47,Basic,8,10,2660.18,26601.8,1,3.5,28,No,36-50,High Value,0,0,0,0,Low
+CUST1011,Delhi,Female,56,Premium,20,5,1621.17,8105.85,2,2.9,125,No,51-60,Low Value,1,0,1,2,High
+CUST1012,Hyderabad,Other,44,Standard,3,6,654.36,3926.16,3,4.8,157,Yes,36-50,Low Value,1,1,0,2,High
+CUST1013,Delhi,Male,53,Premium,16,4,3177.03,12708.12,2,3.9,87,No,51-60,Medium Value,0,0,0,0,Low
+CUST1014,Delhi,Male,46,Standard,30,10,3272.56,32725.6,3,3.0,146,Yes,36-50,VIP,1,1,0,2,High
+CUST1015,Jaipur,Female,55,Standard,45,9,1811.97,16307.73,2,3.2,163,Yes,51-60,Medium Value,1,0,0,1,Medium
+CUST1016,Pune,Female,50,Standard,23,11,622.24,6844.64,0,3.0,77,No,36-50,Low Value,0,0,0,0,Low
+CUST1017,Mumbai,Female,54,Premium,28,7,2090.45,14633.15,4,2.7,76,No,51-60,Medium Value,0,1,1,2,High
+CUST1018,Jaipur,Female,44,Standard,51,10,2157.81,21578.1,2,3.2,175,No,36-50,High Value,1,0,0,1,Medium
+CUST1019,Jaipur,Male,50,Standard,40,8,3108.42,24867.36,1,3.9,114,No,36-50,High Value,0,0,0,0,Low
+CUST1020,Delhi,Male,21,Premium,54,12,1624.75,19497.0,2,3.7,133,Yes,18-25,High Value,1,0,0,1,Medium
+CUST1021,Bengaluru,Female,39,Basic,5,7,3166.92,22168.44,0,3.2,75,No,36-50,High Value,0,0,0,0,Low
+CUST1022,Pune,Female,19,Basic,20,9,3960.25,35642.25,1,4.9,59,No,18-25,VIP,0,0,0,0,Low
+CUST1023,Bhopal,Female,27,Basic,40,8,1297.44,10379.52,2,1.8,59,No,26-35,Low Value,0,0,1,1,Medium
+CUST1024,Jaipur,Female,22,Basic,56,7,4411.46,30880.22,1,3.9,47,No,18-25,VIP,0,0,0,0,Low
+CUST1025,Mumbai,Male,27,Basic,44,10,1922.75,19227.5,1,3.5,95,No,26-35,Medium Value,0,0,0,0,Low
+CUST1026,Bengaluru,Male,50,Premium,1,11,1422.49,15647.39,1,2.7,141,No,36-50,Medium Value,1,0,1,2,High
+CUST1027,Bengaluru,Female,55,Basic,57,11,2070.35,22773.85,0,3.9,78,No,51-60,High Value,0,0,0,0,Low
+CUST1028,Bhopal,Female,30,Standard,30,5,696.47,3482.35,0,3.4,113,No,26-35,Low Value,0,0,0,0,Low
+CUST1029,Jaipur,Female,48,Basic,21,12,827.96,9935.52,2,4.7,109,No,36-50,Low Value,0,0,0,0,Low
+CUST1030,Mumbai,Female,53,Premium,20,8,2040.62,16324.96,1,4.4,106,No,51-60,Medium Value,0,0,0,0,Low
+CUST1031,Pune,Female,41,Premium,6,11,3502.27,38524.97,3,5.0,89,No,36-50,VIP,0,1,0,1,Medium
+CUST1032,Indore,Male,32,Standard,22,4,4081.31,16325.24,3,3.2,33,No,26-35,Medium Value,0,1,0,1,Medium
+CUST1033,Mumbai,Male,46,Premium,18,7,3092.24,21645.68,0,4.9,97,No,36-50,High Value,0,0,0,0,Low
+CUST1034,Bhopal,Male,25,Basic,8,9,741.92,6677.28,0,2.6,79,No,18-25,Low Value,0,0,1,1,Medium
+CUST1035,Bengaluru,Female,22,Premium,39,6,3122.48,18734.88,3,3.5,16,No,18-25,Medium Value,0,1,0,1,Medium
+CUST1036,Pune,Male,46,Basic,32,6,2968.8,17812.8,4,3.2,44,Yes,36-50,Medium Value,0,1,0,1,Medium
+CUST1037,Mumbai,Male,21,Premium,33,6,3684.21,22105.26,2,4.1,120,Yes,18-25,High Value,0,0,0,0,Low
+CUST1038,Indore,Female,29,Basic,53,15,3766.04,56490.6,1,4.1,134,No,26-35,VIP,1,0,0,1,Medium
+CUST1039,Indore,Male,19,Standard,16,4,3946.45,15785.8,0,2.8,108,No,18-25,Medium Value,0,0,1,1,Medium
+CUST1040,Delhi,Female,44,Standard,12,8,2039.35,16314.8,4,4.2,143,Yes,36-50,Medium Value,1,1,0,2,High
+CUST1041,Delhi,Male,48,Basic,38,14,3231.03,45234.42,1,3.3,4,No,36-50,VIP,0,0,0,0,Low
+CUST1042,Hyderabad,Male,53,Basic,52,7,1426.65,9986.55,2,2.9,56,No,51-60,Low Value,0,0,1,1,Medium
+CUST1043,Bhopal,Female,53,Basic,34,5,4497.21,22486.05,4,3.6,64,No,51-60,High Value,0,1,0,1,Medium
+CUST1044,Jaipur,Male,43,Basic,14,8,1036.4,8291.2,3,2.3,162,Yes,36-50,Low Value,1,1,1,3,Critical
+CUST1045,Mumbai,Male,60,Standard,36,10,342.48,3424.8,1,4.4,95,No,51-60,Low Value,0,0,0,0,Low
+CUST1046,Mumbai,Female,44,Basic,33,5,925.0,4625.0,0,3.5,56,No,36-50,Low Value,0,0,0,0,Low
+CUST1047,Jaipur,Female,22,Standard,23,8,3558.66,28469.28,1,3.6,32,No,18-25,High Value,0,0,0,0,Low
+CUST1048,Hyderabad,Male,37,Basic,50,10,2176.49,21764.9,2,3.5,116,No,36-50,High Value,0,0,0,0,Low
+CUST1049,Bengaluru,Female,28,Premium,45,6,2179.5,13077.0,2,5.0,9,No,26-35,Medium Value,0,0,0,0,Low
+CUST1050,Bengaluru,Male,27,Basic,2,9,4311.1,38799.9,0,5.0,105,Yes,26-35,VIP,0,0,0,0,Low
+CUST1051,Hyderabad,Male,57,Basic,41,13,4162.47,54112.11,0,4.8,78,No,51-60,VIP,0,0,0,0,Low
+CUST1052,Bengaluru,Female,55,Basic,21,5,1607.02,8035.1,2,3.5,161,Yes,51-60,Low Value,1,0,0,1,Medium
+CUST1053,Delhi,Female,23,Standard,2,11,1178.04,12958.44,3,2.6,87,Yes,18-25,Medium Value,0,1,1,2,High
+CUST1054,Mumbai,Female,25,Premium,27,10,3863.63,38636.3,1,3.6,21,No,18-25,VIP,0,0,0,0,Low
+CUST1055,Hyderabad,Female,40,Standard,57,12,4105.28,49263.36,3,3.9,55,No,36-50,VIP,0,1,0,1,Medium
+CUST1056,Mumbai,Other,43,Basic,9,10,2574.71,25747.1,1,4.3,76,No,36-50,High Value,0,0,0,0,Low
+CUST1057,Jaipur,Male,60,Standard,1,11,2943.58,32379.38,1,3.9,130,Yes,51-60,VIP,1,0,0,1,Medium
+CUST1058,Indore,Male,29,Standard,11,6,1379.04,8274.24,7,2.7,141,Yes,26-35,Low Value,1,1,1,3,Critical
+CUST1059,Delhi,Female,43,Basic,3,8,3663.37,29306.96,0,3.1,126,Yes,36-50,High Value,1,0,0,1,Medium
+CUST1060,Pune,Male,30,Standard,52,10,2954.91,29549.1,0,3.0,132,No,26-35,VIP,1,0,0,1,Medium
+CUST1061,Delhi,Male,57,Premium,23,7,2414.76,16903.32,3,4.1,84,No,51-60,Medium Value,0,1,0,1,Medium
+CUST1062,Hyderabad,Male,35,Basic,26,8,552.46,4419.68,1,4.1,178,No,26-35,Low Value,1,0,0,1,Medium
+CUST1063,Pune,Male,42,Standard,4,10,4146.93,41469.3,1,4.2,115,No,36-50,VIP,0,0,0,0,Low
+CUST1064,Indore,Female,50,Standard,18,8,2884.9,23079.2,3,3.9,48,No,36-50,High Value,0,1,0,1,Medium
+CUST1065,Hyderabad,Female,57,Standard,55,11,1109.3,12202.3,1,1.7,123,Yes,51-60,Medium Value,1,0,1,2,High
+CUST1066,Bhopal,Female,60,Basic,6,11,2846.82,31315.02,1,2.0,78,Yes,51-60,VIP,0,0,1,1,Medium
+CUST1067,Mumbai,Male,29,Basic,35,11,3145.35,34598.85,4,3.5,30,No,26-35,VIP,0,1,0,1,Medium
+CUST1068,Indore,Male,53,Premium,22,6,2508.24,15049.44,1,3.7,29,No,51-60,Medium Value,0,0,0,0,Low
+CUST1069,Mumbai,Male,21,Premium,43,11,3316.03,36476.33,2,4.7,136,No,18-25,VIP,1,0,0,1,Medium
+CUST1070,Bengaluru,Male,22,Standard,15,13,2742.11,35647.43,2,3.7,140,No,18-25,VIP,1,0,0,1,Medium
+CUST1071,Bhopal,Female,54,Standard,22,4,4280.63,17122.52,2,2.7,41,No,51-60,Medium Value,0,0,1,1,Medium
+CUST1072,Bhopal,Female,25,Standard,60,7,525.53,3678.71,2,4.2,26,No,18-25,Low Value,0,0,0,0,Low
+CUST1073,Indore,Female,59,Standard,37,13,746.23,9700.99,1,3.6,50,No,51-60,Low Value,0,0,0,0,Low
+CUST1074,Bhopal,Male,45,Standard,52,3,1029.42,3088.26,2,3.2,2,No,36-50,Low Value,0,0,0,0,Low
+CUST1075,Pune,Female,48,Basic,42,5,3198.72,15993.6,1,2.1,55,No,36-50,Medium Value,0,0,1,1,Medium
+CUST1076,Bhopal,Female,26,Premium,12,11,3011.5,33126.5,1,3.7,104,No,26-35,VIP,0,0,0,0,Low
+CUST1077,Mumbai,Female,46,Standard,47,6,4046.65,24279.9,0,3.8,14,No,36-50,High Value,0,0,0,0,Low
+CUST1078,Mumbai,Female,31,Premium,49,8,3378.09,27024.72,1,2.7,134,Yes,26-35,High Value,1,0,1,2,High
+CUST1079,Hyderabad,Male,57,Basic,42,9,2435.09,21915.81,2,4.3,128,Yes,51-60,High Value,1,0,0,1,Medium
+CUST1080,Mumbai,Male,58,Basic,38,7,4465.69,31259.83,3,4.2,104,No,51-60,VIP,0,1,0,1,Medium
+CUST1081,Hyderabad,Male,39,Basic,18,12,1417.65,17011.8,0,3.6,95,No,36-50,Medium Value,0,0,0,0,Low
+CUST1082,Mumbai,Female,28,Standard,45,11,3799.4,41793.4,2,3.6,81,No,26-35,VIP,0,0,0,0,Low
+CUST1083,Pune,Male,40,Premium,35,10,2092.52,20925.2,0,4.5,61,No,36-50,High Value,0,0,0,0,Low
+CUST1084,Jaipur,Male,18,Basic,30,12,3024.69,36296.28,2,3.9,12,No,18-25,VIP,0,0,0,0,Low
+CUST1085,Hyderabad,Male,54,Premium,24,9,3354.53,30190.77,4,3.0,13,No,51-60,VIP,0,1,0,1,Medium
+CUST1086,Delhi,Male,38,Standard,42,8,2961.77,23694.16,2,3.4,147,No,36-50,High Value,1,0,0,1,Medium
+CUST1087,Bengaluru,Female,43,Premium,30,9,890.13,8011.17,1,4.1,172,No,36-50,Low Value,1,0,0,1,Medium
+CUST1088,Indore,Female,53,Basic,14,5,2160.39,10801.95,1,1.8,89,No,51-60,Low Value,0,0,1,1,Medium
+CUST1089,Mumbai,Male,40,Premium,6,11,2658.04,29238.44,3,2.8,95,Yes,36-50,High Value,0,1,1,2,High
+CUST1090,Bhopal,Male,18,Standard,3,9,3865.98,34793.82,2,4.2,59,No,18-25,VIP,0,0,0,0,Low
+CUST1091,Jaipur,Male,57,Basic,16,8,2163.31,17306.48,1,4.7,37,No,51-60,Medium Value,0,0,0,0,Low
+CUST1092,Mumbai,Male,32,Basic,7,12,4158.74,49904.88,3,4.5,25,No,26-35,VIP,0,1,0,1,Medium
+CUST1093,Bhopal,Male,38,Premium,52,9,2149.57,19346.13,2,4.4,16,No,36-50,High Value,0,0,0,0,Low
+CUST1094,Bengaluru,Male,26,Premium,14,8,2604.88,20839.04,1,3.7,166,No,26-35,High Value,1,0,0,1,Medium
+CUST1095,Bengaluru,Male,26,Basic,9,13,3644.4,47377.2,2,2.7,171,No,26-35,VIP,1,0,1,2,High
+CUST1096,Bengaluru,Female,27,Standard,15,12,2748.88,32986.56,1,3.4,87,No,26-35,VIP,0,0,0,0,Low
+CUST1097,Bhopal,Female,43,Premium,21,14,4332.92,60660.88,2,1.8,142,No,36-50,VIP,1,0,1,2,High
+CUST1098,Mumbai,Male,58,Premium,35,12,3073.41,36880.92,0,4.8,134,No,51-60,VIP,1,0,0,1,Medium
+CUST1099,Bengaluru,Male,52,Premium,2,11,2495.38,27449.18,3,2.9,23,Yes,51-60,High Value,0,1,1,2,High
+CUST1100,Pune,Female,42,Standard,27,11,399.09,4389.99,3,3.1,126,Yes,36-50,Low Value,1,1,0,2,High
+CUST1101,Hyderabad,Male,43,Standard,2,11,2037.68,22414.48,1,4.6,60,No,36-50,High Value,0,0,0,0,Low
+CUST1102,Bhopal,Female,28,Basic,35,3,1556.84,4670.52,1,2.1,140,No,26-35,Low Value,1,0,1,2,High
+CUST1103,Bhopal,Female,55,Basic,18,16,3442.04,55072.64,0,2.5,141,No,51-60,VIP,1,0,1,2,High
+CUST1104,Mumbai,Male,19,Standard,14,11,1174.77,12922.47,2,3.8,100,No,18-25,Medium Value,0,0,0,0,Low
+CUST1105,Bhopal,Male,24,Standard,20,6,1161.92,6971.52,0,4.1,103,No,18-25,Low Value,0,0,0,0,Low
+CUST1106,Bhopal,Female,35,Basic,18,10,1095.98,10959.8,3,3.5,134,Yes,26-35,Low Value,1,1,0,2,High
+CUST1107,Bengaluru,Male,44,Premium,10,10,827.59,8275.9,0,3.6,63,No,36-50,Low Value,0,0,0,0,Low
+CUST1108,Mumbai,Female,51,Standard,25,9,1606.23,14456.07,1,4.7,38,No,51-60,Medium Value,0,0,0,0,Low
+CUST1109,Bengaluru,Female,44,Standard,2,9,4020.87,36187.83,2,4.2,128,No,36-50,VIP,1,0,0,1,Medium
+CUST1110,Hyderabad,Female,34,Standard,25,12,3554.7,42656.4,4,4.1,50,No,26-35,VIP,0,1,0,1,Medium
+CUST1111,Jaipur,Male,60,Standard,54,8,3388.06,27104.48,1,4.3,180,No,51-60,High Value,1,0,0,1,Medium
+CUST1112,Hyderabad,Female,41,Basic,33,10,3648.81,36488.1,4,3.3,40,No,36-50,VIP,0,1,0,1,Medium
+CUST1113,Jaipur,Male,42,Basic,36,8,1431.56,11452.48,0,5.0,8,No,36-50,Medium Value,0,0,0,0,Low
+CUST1114,Bengaluru,Female,24,Basic,31,4,4027.26,16109.04,1,1.5,8,No,18-25,Medium Value,0,0,1,1,Medium
+CUST1115,Hyderabad,Female,23,Basic,14,11,876.67,9643.37,2,4.9,104,No,18-25,Low Value,0,0,0,0,Low
+CUST1116,Mumbai,Male,41,Standard,1,8,1712.65,13701.2,0,4.4,34,No,36-50,Medium Value,0,0,0,0,Low
+CUST1117,Indore,Female,50,Standard,46,7,2764.34,19350.38,1,3.8,57,No,36-50,High Value,0,0,0,0,Low
+CUST1118,Bengaluru,Female,46,Basic,16,12,732.2,8786.4,4,3.7,174,No,36-50,Low Value,1,1,0,2,High
+CUST1119,Jaipur,Male,60,Standard,54,5,3366.55,16832.75,1,3.5,22,No,51-60,Medium Value,0,0,0,0,Low
+CUST1120,Pune,Male,39,Basic,46,5,1926.43,9632.15,1,4.6,87,No,36-50,Low Value,0,0,0,0,Low
+CUST1121,Jaipur,Male,43,Premium,52,6,3594.5,21567.0,4,3.6,40,No,36-50,High Value,0,1,0,1,Medium
+CUST1122,Pune,Male,45,Premium,3,9,2370.16,21331.44,0,2.9,173,No,36-50,High Value,1,0,1,2,High
+CUST1123,Bhopal,Male,38,Basic,35,11,1059.67,11656.37,3,4.4,179,No,36-50,Medium Value,1,1,0,2,High
+CUST1124,Hyderabad,Female,24,Standard,41,13,3386.0,44018.0,3,5.0,86,No,18-25,VIP,0,1,0,1,Medium
+CUST1125,Pune,Male,34,Basic,6,10,1359.0,13590.0,0,1.9,133,No,26-35,Medium Value,1,0,1,2,High
+CUST1126,Jaipur,Male,37,Standard,25,4,2361.4,9445.6,4,5.0,95,No,36-50,Low Value,0,1,0,1,Medium
+CUST1127,Bhopal,Female,58,Standard,13,9,617.24,5555.16,2,2.7,13,No,51-60,Low Value,0,0,1,1,Medium
+CUST1128,Indore,Male,37,Basic,53,8,2895.04,23160.32,2,2.7,28,No,36-50,High Value,0,0,1,1,Medium
+CUST1129,Mumbai,Female,39,Standard,34,11,3096.6,34062.6,1,2.5,84,No,36-50,VIP,0,0,1,1,Medium
+CUST1130,Mumbai,Male,45,Basic,8,8,1890.43,15123.44,2,3.6,62,No,36-50,Medium Value,0,0,0,0,Low
+CUST1131,Mumbai,Male,57,Basic,21,11,4308.58,47394.38,0,2.4,93,No,51-60,VIP,0,0,1,1,Medium
+CUST1132,Pune,Female,24,Standard,34,10,3971.51,39715.1,3,2.6,87,No,18-25,VIP,0,1,1,2,High
+CUST1133,Indore,Female,18,Basic,4,5,3273.35,16366.75,1,3.0,24,No,18-25,Medium Value,0,0,0,0,Low
+CUST1134,Pune,Female,49,Standard,25,7,3297.34,23081.38,3,3.7,98,No,36-50,High Value,0,1,0,1,Medium
+CUST1135,Hyderabad,Female,30,Standard,15,10,1360.09,13600.9,2,3.8,7,No,26-35,Medium Value,0,0,0,0,Low
+CUST1136,Pune,Female,47,Premium,4,12,3058.62,36703.44,0,4.7,166,No,36-50,VIP,1,0,0,1,Medium
+CUST1137,Indore,Male,40,Basic,45,12,1132.47,13589.64,3,4.7,37,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1138,Indore,Male,36,Standard,60,4,904.81,3619.24,2,4.5,68,No,36-50,Low Value,0,0,0,0,Low
+CUST1139,Hyderabad,Female,49,Standard,12,8,4497.77,35982.16,1,3.4,170,No,36-50,VIP,1,0,0,1,Medium
+CUST1140,Indore,Female,47,Standard,32,11,2913.98,32053.78,2,1.9,86,No,36-50,VIP,0,0,1,1,Medium
+CUST1141,Jaipur,Other,46,Premium,32,11,2110.15,23211.65,0,1.9,133,No,36-50,High Value,1,0,1,2,High
+CUST1142,Indore,Male,46,Standard,28,12,1510.29,18123.48,2,4.5,178,No,36-50,Medium Value,1,0,0,1,Medium
+CUST1143,Mumbai,Male,47,Standard,13,6,2836.47,17018.82,4,4.4,87,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1144,Jaipur,Female,33,Standard,31,6,508.29,3049.74,1,3.0,15,No,26-35,Low Value,0,0,0,0,Low
+CUST1145,Jaipur,Male,57,Premium,14,11,697.66,7674.26,2,2.3,123,No,51-60,Low Value,1,0,1,2,High
+CUST1146,Hyderabad,Female,36,Premium,20,11,438.0,4818.0,1,2.7,107,No,36-50,Low Value,0,0,1,1,Medium
+CUST1147,Delhi,Female,35,Standard,18,10,2396.51,23965.1,2,3.8,153,No,26-35,High Value,1,0,0,1,Medium
+CUST1148,Delhi,Male,18,Standard,29,6,2822.55,16935.3,2,3.8,89,No,18-25,Medium Value,0,0,0,0,Low
+CUST1149,Indore,Female,31,Basic,60,13,562.41,7311.33,3,4.5,125,No,26-35,Low Value,1,1,0,2,High
+CUST1150,Jaipur,Female,19,Basic,6,7,3329.14,23303.98,2,3.2,113,Yes,18-25,High Value,0,0,0,0,Low
+CUST1151,Delhi,Male,45,Standard,32,11,1267.66,13944.26,0,3.4,137,No,36-50,Medium Value,1,0,0,1,Medium
+CUST1152,Delhi,Female,47,Basic,29,7,3177.85,22244.95,0,4.6,166,No,36-50,High Value,1,0,0,1,Medium
+CUST1153,Indore,Male,55,Standard,43,17,4423.97,75207.49,0,1.7,150,Yes,51-60,VIP,1,0,1,2,High
+CUST1154,Delhi,Female,21,Basic,2,12,3202.64,38431.68,3,3.9,107,Yes,18-25,VIP,0,1,0,1,Medium
+CUST1155,Pune,Male,18,Basic,60,7,4009.41,28065.87,3,3.3,87,No,18-25,High Value,0,1,0,1,Medium
+CUST1156,Bhopal,Female,25,Standard,23,5,4282.43,21412.15,2,4.2,177,No,18-25,High Value,1,0,0,1,Medium
+CUST1157,Hyderabad,Male,46,Premium,19,12,2344.35,28132.2,0,4.1,68,No,36-50,High Value,0,0,0,0,Low
+CUST1158,Bhopal,Male,56,Basic,31,8,3249.76,25998.08,3,3.0,15,No,51-60,High Value,0,1,0,1,Medium
+CUST1159,Indore,Female,20,Standard,51,9,3878.27,34904.43,0,3.1,65,No,18-25,VIP,0,0,0,0,Low
+CUST1160,Mumbai,Male,49,Premium,5,9,1797.76,16179.84,1,1.5,54,No,36-50,Medium Value,0,0,1,1,Medium
+CUST1161,Hyderabad,Male,27,Basic,19,8,1397.87,11182.96,3,4.3,158,No,26-35,Low Value,1,1,0,2,High
+CUST1162,Indore,Female,27,Premium,34,12,4275.71,51308.52,3,3.8,93,No,26-35,VIP,0,1,0,1,Medium
+CUST1163,Jaipur,Female,36,Standard,10,14,3350.47,46906.58,2,4.9,20,No,36-50,VIP,0,0,0,0,Low
+CUST1164,Mumbai,Female,51,Basic,25,10,1222.66,12226.6,1,3.2,33,No,51-60,Medium Value,0,0,0,0,Low
+CUST1165,Bhopal,Female,50,Premium,2,12,2186.15,26233.8,4,4.4,100,No,36-50,High Value,0,1,0,1,Medium
+CUST1166,Indore,Male,40,Basic,11,12,3645.1,43741.2,6,2.6,77,Yes,36-50,VIP,0,1,1,2,High
+CUST1167,Jaipur,Male,45,Standard,50,12,2597.66,31171.92,2,1.2,135,No,36-50,VIP,1,0,1,2,High
+CUST1168,Hyderabad,Male,49,Premium,31,8,3029.8,24238.4,0,3.5,136,No,36-50,High Value,1,0,0,1,Medium
+CUST1169,Hyderabad,Female,24,Basic,56,3,3465.83,10397.49,3,3.1,156,No,18-25,Low Value,1,1,0,2,High
+CUST1170,Bengaluru,Female,46,Standard,15,6,2912.44,17474.64,0,2.7,173,No,36-50,Medium Value,1,0,1,2,High
+CUST1171,Jaipur,Female,25,Premium,9,9,2568.33,23114.97,0,4.4,107,No,18-25,High Value,0,0,0,0,Low
+CUST1172,Pune,Female,18,Basic,23,14,3448.38,48277.32,0,4.7,120,Yes,18-25,VIP,0,0,0,0,Low
+CUST1173,Delhi,Male,20,Premium,19,11,3355.76,36913.36,0,3.7,74,No,18-25,VIP,0,0,0,0,Low
+CUST1174,Mumbai,Male,41,Standard,9,8,2945.46,23563.68,4,3.4,11,Yes,36-50,High Value,0,1,0,1,Medium
+CUST1175,Jaipur,Male,40,Standard,35,5,1811.12,9055.6,0,3.7,31,No,36-50,Low Value,0,0,0,0,Low
+CUST1176,Bengaluru,Female,25,Standard,21,13,2004.41,26057.33,0,3.0,12,No,18-25,High Value,0,0,0,0,Low
+CUST1177,Delhi,Male,54,Basic,9,10,4375.84,43758.4,6,4.1,124,Yes,51-60,VIP,1,1,0,2,High
+CUST1178,Delhi,Female,20,Premium,28,11,772.02,8492.22,3,2.2,78,No,18-25,Low Value,0,1,1,2,High
+CUST1179,Indore,Male,50,Premium,46,12,1427.72,17132.64,4,2.6,179,Yes,36-50,Medium Value,1,1,1,3,Critical
+CUST1180,Delhi,Male,45,Standard,51,5,2368.09,11840.45,3,2.9,172,Yes,36-50,Medium Value,1,1,1,3,Critical
+CUST1181,Pune,Male,25,Standard,7,6,3814.26,22885.56,2,4.1,96,No,18-25,High Value,0,0,0,0,Low
+CUST1182,Hyderabad,Female,51,Standard,16,5,987.44,4937.2,2,3.3,50,No,51-60,Low Value,0,0,0,0,Low
+CUST1183,Bengaluru,Female,52,Standard,16,9,1463.21,13168.89,1,4.8,117,No,51-60,Medium Value,0,0,0,0,Low
+CUST1184,Delhi,Male,49,Standard,60,10,576.35,5763.5,2,4.3,17,No,36-50,Low Value,0,0,0,0,Low
+CUST1185,Indore,Male,41,Standard,33,3,3265.14,9795.42,0,2.9,163,No,36-50,Low Value,1,0,1,2,High
+CUST1186,Pune,Female,31,Standard,4,12,1300.48,15605.76,3,4.2,129,No,26-35,Medium Value,1,1,0,2,High
+CUST1187,Bhopal,Male,49,Standard,4,7,1932.43,13527.01,2,3.2,157,Yes,36-50,Medium Value,1,0,0,1,Medium
+CUST1188,Hyderabad,Female,60,Standard,39,10,2163.55,21635.5,2,4.0,179,No,51-60,High Value,1,0,0,1,Medium
+CUST1189,Hyderabad,Female,33,Basic,40,15,4043.52,60652.8,3,4.4,64,No,26-35,VIP,0,1,0,1,Medium
+CUST1190,Bengaluru,Male,21,Basic,17,12,2027.59,24331.08,0,4.6,132,No,18-25,High Value,1,0,0,1,Medium
+CUST1191,Hyderabad,Male,54,Standard,37,9,909.95,8189.55,2,3.8,87,No,51-60,Low Value,0,0,0,0,Low
+CUST1192,Delhi,Other,38,Standard,39,9,2502.12,22519.08,0,5.0,156,No,36-50,High Value,1,0,0,1,Medium
+CUST1193,Indore,Male,31,Standard,60,12,4344.42,52133.04,0,4.0,16,No,26-35,VIP,0,0,0,0,Low
+CUST1194,Hyderabad,Male,48,Standard,52,13,2852.28,37079.64,3,3.7,63,No,36-50,VIP,0,1,0,1,Medium
+CUST1195,Hyderabad,Female,35,Standard,29,14,4430.23,62023.22,1,3.3,76,Yes,26-35,VIP,0,0,0,0,Low
+CUST1196,Bhopal,Female,24,Standard,52,10,3832.65,38326.5,2,3.0,85,Yes,18-25,VIP,0,0,0,0,Low
+CUST1197,Bhopal,Other,27,Basic,36,12,451.06,5412.72,1,4.0,109,No,26-35,Low Value,0,0,0,0,Low
+CUST1198,Mumbai,Female,24,Standard,60,6,3065.28,18391.68,0,3.7,17,No,18-25,Medium Value,0,0,0,0,Low
+CUST1199,Pune,Male,50,Standard,38,11,1504.42,16548.62,4,3.8,168,Yes,36-50,Medium Value,1,1,0,2,High
+CUST1200,Delhi,Male,40,Premium,39,9,2650.39,23853.51,0,4.0,141,No,36-50,High Value,1,0,0,1,Medium
+CUST1201,Hyderabad,Female,38,Standard,50,10,1473.25,14732.5,0,3.8,180,No,36-50,Medium Value,1,0,0,1,Medium
+CUST1202,Jaipur,Female,36,Basic,37,7,1765.26,12356.82,1,5.0,58,No,36-50,Medium Value,0,0,0,0,Low
+CUST1203,Hyderabad,Male,36,Basic,52,7,4177.31,29241.17,1,3.1,165,Yes,36-50,High Value,1,0,0,1,Medium
+CUST1204,Indore,Female,53,Basic,35,12,1167.9,14014.8,2,4.0,79,No,51-60,Medium Value,0,0,0,0,Low
+CUST1205,Mumbai,Male,46,Standard,7,12,3971.26,47655.12,2,3.4,61,No,36-50,VIP,0,0,0,0,Low
+CUST1206,Pune,Male,35,Basic,27,8,427.92,3423.36,1,1.4,113,Yes,26-35,Low Value,0,0,1,1,Medium
+CUST1207,Jaipur,Male,19,Standard,28,10,681.68,6816.8,0,3.4,121,No,18-25,Low Value,1,0,0,1,Medium
+CUST1208,Mumbai,Male,18,Standard,22,5,3889.64,19448.2,2,2.8,34,No,18-25,High Value,0,0,1,1,Medium
+CUST1209,Bengaluru,Male,22,Basic,14,14,2948.34,41276.76,2,3.5,70,No,18-25,VIP,0,0,0,0,Low
+CUST1210,Pune,Male,37,Standard,7,6,3438.39,20630.34,1,3.6,17,No,36-50,High Value,0,0,0,0,Low
+CUST1211,Hyderabad,Male,28,Basic,37,6,1179.55,7077.3,1,3.9,20,No,26-35,Low Value,0,0,0,0,Low
+CUST1212,Hyderabad,Female,59,Standard,22,8,2555.75,20446.0,1,3.1,59,No,51-60,High Value,0,0,0,0,Low
+CUST1213,Pune,Female,19,Basic,5,9,3396.32,30566.88,4,3.2,69,Yes,18-25,VIP,0,1,0,1,Medium
+CUST1214,Hyderabad,Female,20,Premium,55,7,2934.72,20543.04,2,4.2,161,No,18-25,High Value,1,0,0,1,Medium
+CUST1215,Delhi,Female,40,Basic,2,12,2281.13,27373.56,1,2.9,102,Yes,36-50,High Value,0,0,1,1,Medium
+CUST1216,Pune,Male,29,Premium,27,9,4331.09,38979.81,2,1.9,120,No,26-35,VIP,0,0,1,1,Medium
+CUST1217,Mumbai,Male,37,Standard,21,11,3139.86,34538.46,1,3.7,145,No,36-50,VIP,1,0,0,1,Medium
+CUST1218,Pune,Female,22,Premium,54,6,4112.55,24675.3,3,4.6,57,No,18-25,High Value,0,1,0,1,Medium
+CUST1219,Jaipur,Male,54,Standard,38,8,3365.04,26920.32,0,4.2,83,No,51-60,High Value,0,0,0,0,Low
+CUST1220,Hyderabad,Female,55,Standard,15,7,3388.95,23722.65,2,3.8,129,No,51-60,High Value,1,0,0,1,Medium
+CUST1221,Delhi,Male,47,Standard,21,8,636.08,5088.64,0,4.7,13,No,36-50,Low Value,0,0,0,0,Low
+CUST1222,Delhi,Female,26,Standard,10,9,1809.75,16287.75,2,4.6,155,No,26-35,Medium Value,1,0,0,1,Medium
+CUST1223,Bengaluru,Male,51,Standard,23,12,3905.15,46861.8,2,3.3,6,No,51-60,VIP,0,0,0,0,Low
+CUST1224,Mumbai,Female,52,Standard,58,10,1276.94,12769.4,0,3.8,97,No,51-60,Medium Value,0,0,0,0,Low
+CUST1225,Bhopal,Female,39,Standard,56,9,785.12,7066.08,0,3.9,94,No,36-50,Low Value,0,0,0,0,Low
+CUST1226,Bhopal,Other,41,Basic,39,8,1669.65,13357.2,1,3.5,110,No,36-50,Medium Value,0,0,0,0,Low
+CUST1227,Pune,Male,34,Standard,5,7,1225.84,8580.88,1,4.6,151,No,26-35,Low Value,1,0,0,1,Medium
+CUST1228,Bengaluru,Female,27,Standard,1,6,4186.21,25117.26,3,3.5,138,No,26-35,High Value,1,1,0,2,High
+CUST1229,Indore,Female,47,Standard,13,10,3945.46,39454.6,0,3.1,51,No,36-50,VIP,0,0,0,0,Low
+CUST1230,Pune,Female,40,Standard,21,7,2398.67,16790.69,2,1.3,147,No,36-50,Medium Value,1,0,1,2,High
+CUST1231,Bengaluru,Female,49,Standard,26,6,557.64,3345.84,1,2.9,51,No,36-50,Low Value,0,0,1,1,Medium
+CUST1232,Mumbai,Female,34,Premium,50,4,3301.16,13204.64,3,2.4,87,No,26-35,Medium Value,0,1,1,2,High
+CUST1233,Mumbai,Male,34,Basic,45,12,2918.33,35019.96,2,3.6,68,No,26-35,VIP,0,0,0,0,Low
+CUST1234,Mumbai,Female,31,Standard,21,9,4376.33,39386.97,1,2.5,84,No,26-35,VIP,0,0,1,1,Medium
+CUST1235,Mumbai,Female,26,Standard,53,10,2647.6,26476.0,4,4.1,42,No,26-35,High Value,0,1,0,1,Medium
+CUST1236,Mumbai,Female,57,Standard,18,8,1712.85,13702.8,0,4.6,57,No,51-60,Medium Value,0,0,0,0,Low
+CUST1237,Bengaluru,Male,19,Premium,37,6,2479.89,14879.34,6,3.6,166,Yes,18-25,Medium Value,1,1,0,2,High
+CUST1238,Bengaluru,Male,42,Basic,45,10,4412.91,44129.1,1,2.7,62,Yes,36-50,VIP,0,0,1,1,Medium
+CUST1239,Delhi,Female,56,Standard,32,8,3224.72,25797.76,1,3.9,7,No,51-60,High Value,0,0,0,0,Low
+CUST1240,Jaipur,Female,26,Standard,36,6,3122.3,18733.8,3,5.0,112,No,26-35,Medium Value,0,1,0,1,Medium
+CUST1241,Bhopal,Male,39,Standard,17,10,1310.86,13108.6,0,5.0,178,Yes,36-50,Medium Value,1,0,0,1,Medium
+CUST1242,Hyderabad,Female,60,Standard,35,8,3423.13,27385.04,3,2.3,180,Yes,51-60,High Value,1,1,1,3,Critical
+CUST1243,Mumbai,Male,21,Standard,49,3,3451.14,10353.42,3,2.3,26,No,18-25,Low Value,0,1,1,2,High
+CUST1244,Indore,Male,43,Standard,60,7,1632.61,11428.27,6,2.1,154,Yes,36-50,Low Value,1,1,1,3,Critical
+CUST1245,Hyderabad,Male,46,Standard,11,7,2331.6,16321.2,1,2.6,19,Yes,36-50,Medium Value,0,0,1,1,Medium
+CUST1246,Bengaluru,Male,51,Basic,21,8,1537.33,12298.64,0,3.8,9,No,51-60,Medium Value,0,0,0,0,Low
+CUST1247,Indore,Female,40,Standard,52,11,1386.56,15252.16,3,3.1,61,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1248,Indore,Male,54,Basic,55,14,408.76,5722.64,1,2.8,20,No,51-60,Low Value,0,0,1,1,Medium
+CUST1249,Indore,Other,28,Standard,53,9,1497.89,13481.01,0,4.5,106,No,26-35,Medium Value,0,0,0,0,Low
+CUST1250,Delhi,Other,23,Standard,26,7,2626.67,18386.69,0,4.1,50,No,18-25,Medium Value,0,0,0,0,Low
+CUST1251,Bengaluru,Female,35,Standard,4,11,306.72,3373.92,1,2.1,81,No,26-35,Low Value,0,0,1,1,Medium
+CUST1252,Indore,Female,38,Standard,34,11,1489.52,16384.72,2,4.5,150,Yes,36-50,Medium Value,1,0,0,1,Medium
+CUST1253,Mumbai,Male,59,Basic,52,7,4001.92,28013.44,6,4.1,141,Yes,51-60,High Value,1,1,0,2,High
+CUST1254,Pune,Female,53,Standard,48,8,2793.32,22346.56,1,4.1,140,No,51-60,High Value,1,0,0,1,Medium
+CUST1255,Indore,Female,58,Basic,60,11,2853.02,31383.22,4,3.1,10,No,51-60,VIP,0,1,0,1,Medium
+CUST1256,Delhi,Male,55,Standard,18,12,1994.13,23929.56,2,3.4,65,No,51-60,High Value,0,0,0,0,Low
+CUST1257,Hyderabad,Female,51,Premium,40,11,3141.18,34552.98,2,1.8,158,No,51-60,VIP,1,0,1,2,High
+CUST1258,Bengaluru,Female,34,Basic,35,6,1097.72,6586.32,2,4.4,8,No,26-35,Low Value,0,0,0,0,Low
+CUST1259,Jaipur,Female,54,Standard,41,9,3738.74,33648.66,1,2.7,149,No,51-60,VIP,1,0,1,2,High
+CUST1260,Delhi,Female,42,Standard,29,19,790.09,15011.71,4,2.8,22,No,36-50,Medium Value,0,1,1,2,High
+CUST1261,Indore,Female,55,Standard,52,8,3055.21,24441.68,3,2.8,18,Yes,51-60,High Value,0,1,1,2,High
+CUST1262,Bengaluru,Male,29,Basic,29,6,1732.83,10396.98,6,5.0,176,No,26-35,Low Value,1,1,0,2,High
+CUST1263,Pune,Female,40,Basic,38,3,3439.55,10318.65,2,3.0,172,Yes,36-50,Low Value,1,0,0,1,Medium
+CUST1264,Indore,Female,59,Premium,42,9,2609.01,23481.09,2,4.4,9,No,51-60,High Value,0,0,0,0,Low
+CUST1265,Delhi,Male,39,Standard,21,7,2199.88,15399.16,2,3.6,54,No,36-50,Medium Value,0,0,0,0,Low
+CUST1266,Bhopal,Male,38,Basic,42,6,1011.57,6069.42,1,2.9,26,No,36-50,Low Value,0,0,1,1,Medium
+CUST1267,Mumbai,Male,44,Standard,13,5,2974.65,14873.25,3,2.7,94,No,36-50,Medium Value,0,1,1,2,High
+CUST1268,Jaipur,Female,48,Standard,49,11,4394.03,48334.33,3,3.0,100,No,36-50,VIP,0,1,0,1,Medium
+CUST1269,Hyderabad,Other,23,Basic,41,10,3767.53,37675.3,2,3.5,26,No,18-25,VIP,0,0,0,0,Low
+CUST1270,Delhi,Male,44,Standard,17,11,552.03,6072.33,0,4.1,34,No,36-50,Low Value,0,0,0,0,Low
+CUST1271,Bengaluru,Female,57,Standard,56,7,1880.16,13161.12,3,3.2,8,No,51-60,Medium Value,0,1,0,1,Medium
+CUST1272,Jaipur,Male,51,Premium,9,6,4187.45,25124.7,2,3.1,138,No,51-60,High Value,1,0,0,1,Medium
+CUST1273,Jaipur,Female,29,Basic,41,9,2412.78,21715.02,1,2.8,48,No,26-35,High Value,0,0,1,1,Medium
+CUST1274,Jaipur,Female,24,Standard,1,8,3080.87,24646.96,1,2.5,107,No,18-25,High Value,0,0,1,1,Medium
+CUST1275,Indore,Female,27,Standard,2,5,4132.92,20664.6,2,2.5,54,No,26-35,High Value,0,0,1,1,Medium
+CUST1276,Mumbai,Male,34,Standard,60,9,3969.94,35729.46,1,4.5,168,No,26-35,VIP,1,0,0,1,Medium
+CUST1277,Indore,Male,43,Standard,48,5,2407.65,12038.25,3,3.1,119,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1278,Bengaluru,Male,38,Standard,29,9,2138.11,19242.99,3,3.2,143,Yes,36-50,Medium Value,1,1,0,2,High
+CUST1279,Indore,Male,45,Standard,33,7,1726.71,12086.97,1,3.0,81,No,36-50,Medium Value,0,0,0,0,Low
+CUST1280,Bhopal,Female,19,Standard,10,16,3319.88,53118.08,4,3.3,146,Yes,18-25,VIP,1,1,0,2,High
+CUST1281,Mumbai,Female,60,Standard,50,6,1505.34,9032.04,4,3.9,96,No,51-60,Low Value,0,1,0,1,Medium
+CUST1282,Mumbai,Other,18,Premium,58,7,1349.53,9446.71,2,3.2,102,No,18-25,Low Value,0,0,0,0,Low
+CUST1283,Bengaluru,Other,53,Standard,60,6,1796.25,10777.5,2,3.8,151,No,51-60,Low Value,1,0,0,1,Medium
+CUST1284,Hyderabad,Female,43,Standard,40,6,1044.3,6265.8,5,4.9,62,No,36-50,Low Value,0,1,0,1,Medium
+CUST1285,Bhopal,Female,46,Basic,21,10,3219.5,32195.0,2,2.9,46,No,36-50,VIP,0,0,1,1,Medium
+CUST1286,Delhi,Female,38,Premium,28,10,2888.21,28882.1,4,3.2,87,Yes,36-50,High Value,0,1,0,1,Medium
+CUST1287,Indore,Female,28,Basic,11,9,2328.09,20952.81,4,4.2,99,Yes,26-35,High Value,0,1,0,1,Medium
+CUST1288,Pune,Male,57,Basic,55,10,1939.37,19393.7,3,4.9,39,No,51-60,High Value,0,1,0,1,Medium
+CUST1289,Indore,Male,28,Basic,34,10,4118.06,41180.6,1,2.5,143,Yes,26-35,VIP,1,0,1,2,High
+CUST1290,Jaipur,Male,53,Standard,8,8,422.32,3378.56,3,2.1,53,No,51-60,Low Value,0,1,1,2,High
+CUST1291,Indore,Female,56,Basic,59,8,3530.25,28242.0,0,3.6,80,Yes,51-60,High Value,0,0,0,0,Low
+CUST1292,Delhi,Female,57,Basic,22,7,4088.02,28616.14,3,3.5,16,No,51-60,High Value,0,1,0,1,Medium
+CUST1293,Indore,Male,52,Basic,8,8,2174.69,17397.52,0,4.2,104,No,51-60,Medium Value,0,0,0,0,Low
+CUST1294,Bhopal,Female,51,Basic,49,5,2612.9,13064.5,1,4.1,70,No,51-60,Medium Value,0,0,0,0,Low
+CUST1295,Bhopal,Female,41,Standard,15,8,4266.75,34134.0,1,3.6,141,No,36-50,VIP,1,0,0,1,Medium
+CUST1296,Mumbai,Male,39,Standard,17,9,1191.57,10724.13,5,4.5,108,No,36-50,Low Value,0,1,0,1,Medium
+CUST1297,Bengaluru,Male,22,Standard,60,9,2484.57,22361.13,0,3.0,47,No,18-25,High Value,0,0,0,0,Low
+CUST1298,Hyderabad,Female,50,Standard,23,8,2293.83,18350.64,3,3.8,9,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1299,Pune,Female,53,Standard,24,12,1385.25,16623.0,1,2.5,34,No,51-60,Medium Value,0,0,1,1,Medium
+CUST1300,Jaipur,Female,37,Basic,45,6,3738.09,22428.54,2,3.6,157,No,36-50,High Value,1,0,0,1,Medium
+CUST1301,Indore,Female,36,Basic,19,2,4078.32,8156.64,3,2.3,165,Yes,36-50,Low Value,1,1,1,3,Critical
+CUST1302,Indore,Female,52,Premium,5,7,3584.12,25088.84,4,2.6,171,Yes,51-60,High Value,1,1,1,3,Critical
+CUST1303,Delhi,Female,60,Standard,32,10,1120.51,11205.1,0,5.0,86,No,51-60,Low Value,0,0,0,0,Low
+CUST1304,Bengaluru,Female,34,Basic,44,6,664.34,3986.04,1,2.0,115,No,26-35,Low Value,0,0,1,1,Medium
+CUST1305,Bhopal,Female,60,Standard,1,9,2842.87,25585.83,3,3.4,64,No,51-60,High Value,0,1,0,1,Medium
+CUST1306,Pune,Male,51,Basic,23,11,539.8,5937.8,2,4.3,152,Yes,51-60,Low Value,1,0,0,1,Medium
+CUST1307,Mumbai,Male,26,Standard,37,13,3125.87,40636.31,4,5.0,34,No,26-35,VIP,0,1,0,1,Medium
+CUST1308,Bhopal,Male,43,Basic,8,6,2527.78,15166.68,3,3.8,176,Yes,36-50,Medium Value,1,1,0,2,High
+CUST1309,Jaipur,Female,19,Basic,13,5,3083.7,15418.5,2,3.8,12,No,18-25,Medium Value,0,0,0,0,Low
+CUST1310,Bengaluru,Female,26,Basic,8,12,2778.72,33344.64,2,3.6,151,No,26-35,VIP,1,0,0,1,Medium
+CUST1311,Jaipur,Female,26,Premium,57,9,2075.35,18678.15,3,4.6,97,No,26-35,Medium Value,0,1,0,1,Medium
+CUST1312,Hyderabad,Male,57,Standard,23,16,1143.68,18298.88,1,4.0,121,Yes,51-60,Medium Value,1,0,0,1,Medium
+CUST1313,Mumbai,Male,34,Basic,43,6,1583.95,9503.7,4,3.1,141,No,26-35,Low Value,1,1,0,2,High
+CUST1314,Hyderabad,Male,18,Basic,1,13,2502.9,32537.7,2,4.6,87,No,18-25,VIP,0,0,0,0,Low
+CUST1315,Delhi,Male,42,Standard,45,6,3037.85,18227.1,3,3.2,102,Yes,36-50,Medium Value,0,1,0,1,Medium
+CUST1316,Jaipur,Female,60,Basic,51,6,3573.83,21442.98,1,2.2,96,No,51-60,High Value,0,0,1,1,Medium
+CUST1317,Delhi,Male,57,Basic,24,11,3522.12,38743.32,0,2.2,173,No,51-60,VIP,1,0,1,2,High
+CUST1318,Indore,Male,59,Premium,35,7,4385.29,30697.03,3,3.4,114,No,51-60,VIP,0,1,0,1,Medium
+CUST1319,Hyderabad,Female,42,Basic,24,12,1500.53,18006.36,0,3.7,47,No,36-50,Medium Value,0,0,0,0,Low
+CUST1320,Bengaluru,Male,56,Standard,17,9,598.66,5387.94,1,4.5,58,No,51-60,Low Value,0,0,0,0,Low
+CUST1321,Jaipur,Male,52,Premium,5,8,1751.76,14014.08,0,4.2,133,No,51-60,Medium Value,1,0,0,1,Medium
+CUST1322,Pune,Female,20,Standard,20,10,3421.84,34218.4,1,3.7,121,No,18-25,VIP,1,0,0,1,Medium
+CUST1323,Mumbai,Male,54,Basic,21,14,2140.07,29960.98,1,4.5,118,No,51-60,VIP,0,0,0,0,Low
+CUST1324,Bhopal,Female,47,Basic,40,6,3734.71,22408.26,0,3.6,5,No,36-50,High Value,0,0,0,0,Low
+CUST1325,Bengaluru,Female,55,Premium,58,6,2607.17,15643.02,0,2.4,96,No,51-60,Medium Value,0,0,1,1,Medium
+CUST1326,Bengaluru,Female,51,Premium,31,16,4205.13,67282.08,1,2.2,21,No,51-60,VIP,0,0,1,1,Medium
+CUST1327,Delhi,Male,29,Standard,46,5,4281.03,21405.15,1,4.8,152,No,26-35,High Value,1,0,0,1,Medium
+CUST1328,Hyderabad,Female,36,Basic,36,8,591.08,4728.64,1,1.6,128,No,36-50,Low Value,1,0,1,2,High
+CUST1329,Jaipur,Male,54,Standard,11,12,2216.94,26603.28,0,3.4,124,No,51-60,High Value,1,0,0,1,Medium
+CUST1330,Jaipur,Male,34,Premium,52,11,2860.69,31467.59,2,5.0,146,Yes,26-35,VIP,1,0,0,1,Medium
+CUST1331,Indore,Male,27,Standard,15,11,1374.66,15121.26,2,4.0,21,No,26-35,Medium Value,0,0,0,0,Low
+CUST1332,Indore,Other,29,Premium,19,19,2009.72,38184.68,1,3.4,54,No,26-35,VIP,0,0,0,0,Low
+CUST1333,Mumbai,Male,33,Premium,7,15,3146.26,47193.9,2,2.1,138,No,26-35,VIP,1,0,1,2,High
+CUST1334,Delhi,Male,41,Standard,51,7,1252.28,8765.96,4,5.0,152,No,36-50,Low Value,1,1,0,2,High
+CUST1335,Bengaluru,Female,36,Standard,28,8,2828.32,22626.56,0,4.7,104,No,36-50,High Value,0,0,0,0,Low
+CUST1336,Jaipur,Male,25,Basic,51,8,3229.28,25834.24,1,4.2,111,No,18-25,High Value,0,0,0,0,Low
+CUST1337,Pune,Male,48,Basic,43,10,680.08,6800.8,3,3.6,116,No,36-50,Low Value,0,1,0,1,Medium
+CUST1338,Delhi,Male,38,Standard,58,5,2389.62,11948.1,0,4.1,57,No,36-50,Medium Value,0,0,0,0,Low
+CUST1339,Mumbai,Male,34,Basic,5,7,1404.94,9834.58,0,3.5,128,No,26-35,Low Value,1,0,0,1,Medium
+CUST1340,Mumbai,Male,40,Premium,5,11,3342.42,36766.62,1,2.7,151,Yes,36-50,VIP,1,0,1,2,High
+CUST1341,Delhi,Male,54,Premium,30,11,1096.13,12057.43,4,4.5,150,No,51-60,Medium Value,1,1,0,2,High
+CUST1342,Mumbai,Female,33,Standard,54,5,4047.4,20237.0,4,3.6,162,Yes,26-35,High Value,1,1,0,2,High
+CUST1343,Delhi,Male,23,Basic,32,10,2109.95,21099.5,0,4.1,120,No,18-25,High Value,0,0,0,0,Low
+CUST1344,Bhopal,Male,25,Basic,8,11,1131.61,12447.71,6,3.5,70,Yes,18-25,Medium Value,0,1,0,1,Medium
+CUST1345,Delhi,Female,42,Basic,10,5,2139.69,10698.45,2,4.0,156,Yes,36-50,Low Value,1,0,0,1,Medium
+CUST1346,Hyderabad,Male,35,Standard,38,12,2016.72,24200.64,3,3.6,95,Yes,26-35,High Value,0,1,0,1,Medium
+CUST1347,Delhi,Female,42,Standard,47,9,2101.46,18913.14,3,3.5,99,Yes,36-50,Medium Value,0,1,0,1,Medium
+CUST1348,Mumbai,Male,29,Premium,32,8,2759.36,22074.88,3,3.6,167,No,26-35,High Value,1,1,0,2,High
+CUST1349,Jaipur,Male,32,Standard,48,13,2488.93,32356.09,1,5.0,42,No,26-35,VIP,0,0,0,0,Low
+CUST1350,Hyderabad,Male,43,Premium,28,7,929.06,6503.42,3,4.3,151,Yes,36-50,Low Value,1,1,0,2,High
+CUST1351,Mumbai,Male,58,Premium,17,10,575.43,5754.3,1,5.0,70,No,51-60,Low Value,0,0,0,0,Low
+CUST1352,Indore,Male,43,Basic,31,6,3363.54,20181.24,3,3.6,2,No,36-50,High Value,0,1,0,1,Medium
+CUST1353,Indore,Male,49,Premium,8,9,2650.81,23857.29,0,3.3,152,No,36-50,High Value,1,0,0,1,Medium
+CUST1354,Jaipur,Male,27,Standard,40,9,1807.8,16270.2,2,2.6,145,No,26-35,Medium Value,1,0,1,2,High
+CUST1355,Jaipur,Male,33,Basic,25,7,3695.1,25865.7,2,5.0,109,No,26-35,High Value,0,0,0,0,Low
+CUST1356,Hyderabad,Male,24,Standard,9,7,1929.85,13508.95,2,2.8,65,Yes,18-25,Medium Value,0,0,1,1,Medium
+CUST1357,Bhopal,Male,34,Basic,2,12,3643.05,43716.6,2,5.0,70,No,26-35,VIP,0,0,0,0,Low
+CUST1358,Jaipur,Male,40,Standard,15,10,1584.18,15841.8,2,2.7,69,No,36-50,Medium Value,0,0,1,1,Medium
+CUST1359,Indore,Male,43,Standard,50,14,605.95,8483.3,2,4.4,121,No,36-50,Low Value,1,0,0,1,Medium
+CUST1360,Delhi,Female,38,Standard,3,8,4217.09,33736.72,2,2.2,109,No,36-50,VIP,0,0,1,1,Medium
+CUST1361,Mumbai,Male,39,Standard,49,6,1957.11,11742.66,1,3.2,60,No,36-50,Medium Value,0,0,0,0,Low
+CUST1362,Indore,Female,24,Standard,36,11,3629.31,39922.41,4,3.6,178,No,18-25,VIP,1,1,0,2,High
+CUST1363,Indore,Female,31,Standard,4,8,1472.41,11779.28,2,3.1,93,No,26-35,Medium Value,0,0,0,0,Low
+CUST1364,Bhopal,Male,32,Standard,14,10,3014.73,30147.3,2,3.4,12,No,26-35,VIP,0,0,0,0,Low
+CUST1365,Hyderabad,Female,24,Standard,41,11,3967.91,43647.01,0,3.5,103,No,18-25,VIP,0,0,0,0,Low
+CUST1366,Hyderabad,Female,26,Basic,41,8,474.9,3799.2,1,4.3,175,No,26-35,Low Value,1,0,0,1,Medium
+CUST1367,Bengaluru,Male,25,Standard,25,7,3788.67,26520.69,2,1.7,112,No,18-25,High Value,0,0,1,1,Medium
+CUST1368,Bhopal,Male,40,Basic,58,9,2699.6,24296.4,3,3.1,65,No,36-50,High Value,0,1,0,1,Medium
+CUST1369,Delhi,Female,46,Standard,55,8,2851.38,22811.04,2,4.7,155,No,36-50,High Value,1,0,0,1,Medium
+CUST1370,Hyderabad,Female,35,Standard,50,7,2497.26,17480.82,2,4.1,48,No,26-35,Medium Value,0,0,0,0,Low
+CUST1371,Mumbai,Male,48,Standard,10,11,3972.8,43700.8,1,4.7,88,No,36-50,VIP,0,0,0,0,Low
+CUST1372,Jaipur,Male,47,Standard,21,10,482.42,4824.2,1,4.3,62,No,36-50,Low Value,0,0,0,0,Low
+CUST1373,Bhopal,Male,56,Premium,36,5,1396.32,6981.6,1,2.6,44,Yes,51-60,Low Value,0,0,1,1,Medium
+CUST1374,Jaipur,Male,52,Premium,12,10,3978.2,39782.0,2,4.2,147,No,51-60,VIP,1,0,0,1,Medium
+CUST1375,Indore,Female,35,Premium,27,15,3459.85,51897.75,2,3.7,136,No,26-35,VIP,1,0,0,1,Medium
+CUST1376,Mumbai,Male,59,Premium,40,6,374.11,2244.66,2,5.0,55,No,51-60,Low Value,0,0,0,0,Low
+CUST1377,Mumbai,Male,56,Basic,2,12,2471.43,29657.16,0,4.3,108,No,51-60,VIP,0,0,0,0,Low
+CUST1378,Indore,Female,34,Basic,54,3,2524.21,7572.63,2,4.1,47,No,26-35,Low Value,0,0,0,0,Low
+CUST1379,Bhopal,Male,31,Standard,13,5,1983.7,9918.5,1,4.2,2,No,26-35,Low Value,0,0,0,0,Low
+CUST1380,Indore,Male,48,Basic,53,10,1549.05,15490.5,3,4.0,113,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1381,Jaipur,Female,41,Standard,32,3,3163.24,9489.72,2,4.0,167,No,36-50,Low Value,1,0,0,1,Medium
+CUST1382,Bengaluru,Female,52,Standard,31,11,1172.72,12899.92,1,3.4,173,Yes,51-60,Medium Value,1,0,0,1,Medium
+CUST1383,Mumbai,Male,51,Standard,16,9,3655.58,32900.22,1,4.1,160,Yes,51-60,VIP,1,0,0,1,Medium
+CUST1384,Pune,Female,20,Standard,32,14,3672.76,51418.64,1,4.5,166,No,18-25,VIP,1,0,0,1,Medium
+CUST1385,Pune,Male,54,Standard,32,7,2044.1,14308.7,1,4.6,11,No,51-60,Medium Value,0,0,0,0,Low
+CUST1386,Jaipur,Male,60,Standard,60,12,1490.9,17890.8,2,4.4,138,No,51-60,Medium Value,1,0,0,1,Medium
+CUST1387,Delhi,Female,57,Premium,34,8,1492.29,11938.32,3,5.0,112,No,51-60,Medium Value,0,1,0,1,Medium
+CUST1388,Hyderabad,Male,43,Standard,11,5,2325.62,11628.1,2,4.6,90,No,36-50,Medium Value,0,0,0,0,Low
+CUST1389,Indore,Male,40,Premium,10,5,3322.23,16611.15,0,4.2,55,No,36-50,Medium Value,0,0,0,0,Low
+CUST1390,Indore,Male,56,Basic,15,5,1807.25,9036.25,4,2.6,148,Yes,51-60,Low Value,1,1,1,3,Critical
+CUST1391,Delhi,Male,32,Premium,17,7,2862.18,20035.26,2,2.6,17,No,26-35,High Value,0,0,1,1,Medium
+CUST1392,Delhi,Male,21,Standard,40,6,1906.43,11438.58,3,3.4,68,No,18-25,Low Value,0,1,0,1,Medium
+CUST1393,Jaipur,Male,46,Standard,18,12,1579.0,18948.0,1,3.6,133,No,36-50,Medium Value,1,0,0,1,Medium
+CUST1394,Jaipur,Male,39,Basic,55,12,404.41,4852.92,1,4.9,151,No,36-50,Low Value,1,0,0,1,Medium
+CUST1395,Delhi,Male,42,Standard,9,5,316.44,1582.2,4,1.1,174,Yes,36-50,Low Value,1,1,1,3,Critical
+CUST1396,Mumbai,Female,30,Basic,25,7,1254.27,8779.89,3,2.7,52,No,26-35,Low Value,0,1,1,2,High
+CUST1397,Jaipur,Female,35,Basic,40,8,2006.91,16055.28,1,3.4,138,No,26-35,Medium Value,1,0,0,1,Medium
+CUST1398,Bengaluru,Female,50,Standard,59,7,3875.3,27127.1,2,2.7,174,Yes,36-50,High Value,1,0,1,2,High
+CUST1399,Jaipur,Female,33,Standard,14,9,3653.63,32882.67,1,2.9,156,No,26-35,VIP,1,0,1,2,High
+CUST1400,Indore,Male,59,Standard,60,8,1422.09,11376.72,1,3.2,97,Yes,51-60,Low Value,0,0,0,0,Low
+CUST1401,Jaipur,Male,19,Premium,58,5,1327.07,6635.35,1,2.7,171,No,18-25,Low Value,1,0,1,2,High
+CUST1402,Mumbai,Female,52,Standard,25,9,1254.75,11292.75,0,2.9,154,Yes,51-60,Low Value,1,0,1,2,High
+CUST1403,Delhi,Female,59,Standard,50,5,1724.8,8624.0,3,4.8,48,No,51-60,Low Value,0,1,0,1,Medium
+CUST1404,Indore,Female,51,Basic,22,14,2392.43,33494.02,1,4.2,29,No,51-60,VIP,0,0,0,0,Low
+CUST1405,Jaipur,Male,47,Standard,52,8,2142.4,17139.2,3,4.3,27,No,36-50,Medium Value,0,1,0,1,Medium
+CUST1406,Mumbai,Male,30,Standard,30,8,1216.75,9734.0,2,3.6,146,No,26-35,Low Value,1,0,0,1,Medium
+CUST1407,Bengaluru,Male,30,Premium,20,7,847.9,5935.3,0,4.5,104,No,26-35,Low Value,0,0,0,0,Low
+CUST1408,Jaipur,Male,35,Premium,21,10,352.83,3528.3,5,4.4,60,No,26-35,Low Value,0,1,0,1,Medium
+CUST1409,Mumbai,Female,49,Standard,44,8,946.65,7573.2,1,4.1,106,No,36-50,Low Value,0,0,0,0,Low
+CUST1410,Bengaluru,Female,49,Basic,32,8,3262.5,26100.0,6,3.0,69,No,36-50,High Value,0,1,0,1,Medium
+CUST1411,Delhi,Male,52,Premium,51,11,1323.28,14556.08,2,3.2,114,No,51-60,Medium Value,0,0,0,0,Low
+CUST1412,Jaipur,Other,56,Standard,46,11,2268.13,24949.43,2,4.6,21,No,51-60,High Value,0,0,0,0,Low
+CUST1413,Bengaluru,Female,46,Basic,49,11,2783.46,30618.06,0,3.1,152,Yes,36-50,VIP,1,0,0,1,Medium
+CUST1414,Indore,Male,46,Basic,56,4,4024.73,16098.92,3,2.4,102,No,36-50,Medium Value,0,1,1,2,High
+CUST1415,Delhi,Male,33,Standard,21,10,4033.19,40331.9,0,3.1,131,No,26-35,VIP,1,0,0,1,Medium
+CUST1416,Indore,Male,27,Basic,35,11,3432.08,37752.88,1,5.0,95,No,26-35,VIP,0,0,0,0,Low
+CUST1417,Pune,Male,47,Premium,58,11,447.66,4924.26,0,3.1,105,No,36-50,Low Value,0,0,0,0,Low
+CUST1418,Bhopal,Male,42,Standard,32,9,2715.3,24437.7,2,3.9,125,No,36-50,High Value,1,0,0,1,Medium
+CUST1419,Jaipur,Male,56,Basic,30,10,3603.65,36036.5,0,3.0,2,No,51-60,VIP,0,0,0,0,Low
+CUST1420,Bengaluru,Male,37,Premium,55,15,372.61,5589.15,2,4.3,66,No,36-50,Low Value,0,0,0,0,Low
+CUST1421,Bhopal,Male,22,Standard,39,10,2608.68,26086.8,2,4.1,113,Yes,18-25,High Value,0,0,0,0,Low
+CUST1422,Bhopal,Female,18,Standard,49,12,3902.61,46831.32,1,2.3,170,Yes,18-25,VIP,1,0,1,2,High
+CUST1423,Bengaluru,Male,47,Basic,12,10,2291.23,22912.3,2,3.8,162,No,36-50,High Value,1,0,0,1,Medium
+CUST1424,Delhi,Female,20,Basic,41,5,317.25,1586.25,0,2.1,42,No,18-25,Low Value,0,0,1,1,Medium
+CUST1425,Jaipur,Male,31,Standard,47,9,346.26,3116.34,5,3.1,20,No,26-35,Low Value,0,1,0,1,Medium
+CUST1426,Pune,Other,47,Standard,18,14,2049.87,28698.18,1,3.6,97,No,36-50,High Value,0,0,0,0,Low
+CUST1427,Indore,Male,21,Standard,21,4,951.04,3804.16,2,5.0,68,No,18-25,Low Value,0,0,0,0,Low
+CUST1428,Mumbai,Male,35,Standard,13,10,3090.69,30906.9,2,3.9,173,Yes,26-35,VIP,1,0,0,1,Medium
+CUST1429,Indore,Female,54,Standard,21,9,3276.96,29492.64,1,2.9,75,No,51-60,High Value,0,0,1,1,Medium
+CUST1430,Mumbai,Female,42,Basic,8,8,1047.1,8376.8,1,3.3,125,Yes,36-50,Low Value,1,0,0,1,Medium
+CUST1431,Indore,Female,18,Standard,46,6,4031.84,24191.04,1,4.4,170,No,18-25,High Value,1,0,0,1,Medium
+CUST1432,Bengaluru,Male,32,Premium,40,3,2156.01,6468.03,3,2.9,47,Yes,26-35,Low Value,0,1,1,2,High
+CUST1433,Pune,Male,26,Standard,46,7,899.95,6299.65,1,4.6,5,No,26-35,Low Value,0,0,0,0,Low
+CUST1434,Jaipur,Female,32,Standard,7,5,3509.86,17549.3,2,3.1,49,No,26-35,Medium Value,0,0,0,0,Low
+CUST1435,Mumbai,Female,41,Basic,23,9,3617.89,32561.01,1,2.8,124,Yes,36-50,VIP,1,0,1,2,High
+CUST1436,Jaipur,Female,21,Basic,44,11,2985.04,32835.44,2,3.2,37,No,18-25,VIP,0,0,0,0,Low
+CUST1437,Jaipur,Female,29,Standard,32,8,3884.56,31076.48,1,2.1,162,Yes,26-35,VIP,1,0,1,2,High
+CUST1438,Jaipur,Male,54,Premium,11,10,3396.97,33969.7,0,1.6,146,Yes,51-60,VIP,1,0,1,2,High
+CUST1439,Hyderabad,Female,54,Standard,22,7,4005.26,28036.82,2,3.5,19,Yes,51-60,High Value,0,0,0,0,Low
+CUST1440,Delhi,Male,60,Premium,22,9,2122.33,19100.97,3,3.5,40,No,51-60,Medium Value,0,1,0,1,Medium
+CUST1441,Indore,Male,23,Standard,43,8,3439.91,27519.28,3,3.8,17,No,18-25,High Value,0,1,0,1,Medium
+CUST1442,Jaipur,Male,56,Basic,25,3,4498.96,13496.88,1,3.5,99,No,51-60,Medium Value,0,0,0,0,Low
+CUST1443,Indore,Male,41,Standard,22,10,3344.71,33447.1,3,5.0,93,No,36-50,VIP,0,1,0,1,Medium
+CUST1444,Jaipur,Male,28,Basic,28,6,779.57,4677.42,2,3.8,42,No,26-35,Low Value,0,0,0,0,Low
+CUST1445,Mumbai,Male,30,Basic,29,12,2476.94,29723.28,2,2.4,123,No,26-35,VIP,1,0,1,2,High
+CUST1446,Delhi,Female,51,Premium,13,11,2766.86,30435.46,0,2.6,107,No,51-60,VIP,0,0,1,1,Medium
+CUST1447,Delhi,Male,42,Standard,18,8,1031.68,8253.44,4,3.6,72,No,36-50,Low Value,0,1,0,1,Medium
+CUST1448,Bengaluru,Female,24,Standard,2,10,4344.14,43441.4,1,3.2,65,No,18-25,VIP,0,0,0,0,Low
+CUST1449,Hyderabad,Male,21,Basic,29,6,1037.44,6224.64,2,2.5,109,Yes,18-25,Low Value,0,0,1,1,Medium
+CUST1450,Bengaluru,Male,25,Basic,21,7,1045.74,7320.18,2,3.5,53,No,18-25,Low Value,0,0,0,0,Low
+CUST1451,Bengaluru,Female,37,Basic,15,5,4143.7,20718.5,0,3.6,135,Yes,36-50,High Value,1,0,0,1,Medium
+CUST1452,Bengaluru,Male,46,Basic,52,9,2253.86,20284.74,0,5.0,133,No,36-50,High Value,1,0,0,1,Medium
+CUST1453,Bengaluru,Male,27,Standard,27,10,565.39,5653.9,2,2.8,24,No,26-35,Low Value,0,0,1,1,Medium
+CUST1454,Bengaluru,Male,60,Basic,50,9,2812.39,25311.51,1,3.2,28,No,51-60,High Value,0,0,0,0,Low
+CUST1455,Pune,Male,51,Standard,31,10,2827.67,28276.7,1,5.0,62,No,51-60,High Value,0,0,0,0,Low
+CUST1456,Delhi,Other,43,Basic,15,5,570.9,2854.5,1,3.9,17,No,36-50,Low Value,0,0,0,0,Low
+CUST1457,Bengaluru,Male,58,Basic,51,10,4384.59,43845.9,5,2.8,20,No,51-60,VIP,0,1,1,2,High
+CUST1458,Jaipur,Female,20,Basic,23,11,2584.93,28434.23,4,3.0,3,No,18-25,High Value,0,1,0,1,Medium
+CUST1459,Delhi,Male,23,Standard,24,8,2651.14,21209.12,2,2.5,165,No,18-25,High Value,1,0,1,2,High
+CUST1460,Delhi,Female,22,Standard,44,6,2484.48,14906.88,1,3.7,143,No,18-25,Medium Value,1,0,0,1,Medium
+CUST1461,Bhopal,Female,22,Standard,13,9,2865.07,25785.63,1,4.5,51,No,18-25,High Value,0,0,0,0,Low
+CUST1462,Pune,Female,40,Standard,22,10,1410.06,14100.6,0,5.0,176,No,36-50,Medium Value,1,0,0,1,Medium
+CUST1463,Bengaluru,Male,26,Standard,43,10,1506.41,15064.1,2,2.3,136,Yes,26-35,Medium Value,1,0,1,2,High
+CUST1464,Indore,Male,52,Basic,37,8,2447.62,19580.96,1,4.4,141,No,51-60,High Value,1,0,0,1,Medium
+CUST1465,Mumbai,Male,37,Basic,33,6,3688.08,22128.48,2,3.7,176,No,36-50,High Value,1,0,0,1,Medium
+CUST1466,Hyderabad,Female,59,Premium,56,11,509.43,5603.73,4,3.4,3,No,51-60,Low Value,0,1,0,1,Medium
+CUST1467,Jaipur,Female,52,Standard,3,7,2834.3,19840.1,1,3.2,73,No,51-60,High Value,0,0,0,0,Low
+CUST1468,Indore,Female,35,Basic,54,11,3688.47,40573.17,1,1.9,159,No,26-35,VIP,1,0,1,2,High
+CUST1469,Pune,Male,34,Premium,19,5,959.05,4795.25,1,4.2,105,No,26-35,Low Value,0,0,0,0,Low
+CUST1470,Mumbai,Female,41,Standard,23,8,363.09,2904.72,1,2.4,118,No,36-50,Low Value,0,0,1,1,Medium
+CUST1471,Pune,Female,20,Basic,29,13,1613.4,20974.2,3,2.9,154,No,18-25,High Value,1,1,1,3,Critical
+CUST1472,Jaipur,Male,49,Standard,30,9,2770.2,24931.8,4,4.0,34,No,36-50,High Value,0,1,0,1,Medium
+CUST1473,Delhi,Male,52,Standard,39,8,880.79,7046.32,1,2.0,137,Yes,51-60,Low Value,1,0,1,2,High
+CUST1474,Mumbai,Female,55,Standard,44,7,2089.71,14627.97,2,2.4,62,No,51-60,Medium Value,0,0,1,1,Medium
+CUST1475,Delhi,Female,30,Standard,47,13,2619.75,34056.75,3,4.7,120,No,26-35,VIP,0,1,0,1,Medium
+CUST1476,Jaipur,Female,42,Basic,25,6,2815.31,16891.86,1,3.7,115,No,36-50,Medium Value,0,0,0,0,Low
+CUST1477,Indore,Male,26,Standard,37,7,1452.53,10167.71,2,3.0,13,No,26-35,Low Value,0,0,0,0,Low
+CUST1478,Jaipur,Female,21,Standard,47,6,1980.12,11880.72,2,3.7,69,No,18-25,Medium Value,0,0,0,0,Low
+CUST1479,Indore,Male,31,Premium,8,11,3569.02,39259.22,1,4.2,169,No,26-35,VIP,1,0,0,1,Medium
+CUST1480,Mumbai,Male,54,Standard,42,11,4253.1,46784.1,2,4.6,77,No,51-60,VIP,0,0,0,0,Low
+CUST1481,Mumbai,Male,51,Basic,58,6,3919.9,23519.4,2,2.6,1,Yes,51-60,High Value,0,0,1,1,Medium
+CUST1482,Bengaluru,Female,28,Standard,16,12,2669.99,32039.88,1,2.7,89,No,26-35,VIP,0,0,1,1,Medium
+CUST1483,Pune,Female,58,Basic,8,9,2023.23,18209.07,2,4.1,47,No,51-60,Medium Value,0,0,0,0,Low
+CUST1484,Bengaluru,Female,20,Standard,1,5,1698.42,8492.1,3,4.2,4,No,18-25,Low Value,0,1,0,1,Medium
+CUST1485,Pune,Male,45,Standard,44,9,824.82,7423.38,3,2.4,180,Yes,36-50,Low Value,1,1,1,3,Critical
+CUST1486,Bengaluru,Female,46,Basic,5,4,747.52,2990.08,2,2.7,10,No,36-50,Low Value,0,0,1,1,Medium
+CUST1487,Delhi,Male,26,Standard,3,5,3191.1,15955.5,0,3.4,28,No,26-35,Medium Value,0,0,0,0,Low
+CUST1488,Mumbai,Female,20,Basic,1,7,1391.14,9737.98,1,3.6,121,No,18-25,Low Value,1,0,0,1,Medium
+CUST1489,Indore,Male,42,Basic,4,14,1369.58,19174.12,3,3.6,126,No,36-50,Medium Value,1,1,0,2,High
+CUST1490,Pune,Male,51,Standard,40,7,4492.42,31446.94,1,2.4,134,No,51-60,VIP,1,0,1,2,High
+CUST1491,Jaipur,Male,29,Standard,35,6,1089.29,6535.74,3,3.6,155,No,26-35,Low Value,1,1,0,2,High
+CUST1492,Pune,Male,59,Premium,32,5,921.85,4609.25,0,3.0,140,No,51-60,Low Value,1,0,0,1,Medium
+CUST1493,Indore,Female,26,Standard,42,9,714.48,6430.32,2,2.6,62,No,26-35,Low Value,0,0,1,1,Medium
+CUST1494,Bengaluru,Male,32,Basic,34,6,2735.18,16411.08,1,3.6,180,No,26-35,Medium Value,1,0,0,1,Medium
+CUST1495,Pune,Male,57,Standard,43,7,2937.03,20559.21,2,3.5,176,No,51-60,High Value,1,0,0,1,Medium
+CUST1496,Hyderabad,Female,42,Basic,25,11,1833.96,20173.56,1,4.3,67,No,36-50,High Value,0,0,0,0,Low
+CUST1497,Delhi,Male,22,Premium,10,17,2548.74,43328.58,0,2.8,174,No,18-25,VIP,1,0,1,2,High
+CUST1498,Mumbai,Female,28,Standard,21,6,3611.28,21667.68,0,3.8,74,No,26-35,High Value,0,0,0,0,Low
+CUST1499,Indore,Female,51,Standard,46,11,3736.04,41096.44,1,2.2,95,No,51-60,VIP,0,0,1,1,Medium
+CUST1500,Mumbai,Female,41,Basic,39,7,4323.23,30262.61,1,3.4,143,No,36-50,VIP,1,0,0,1,Medium
